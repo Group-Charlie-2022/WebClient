@@ -1,4 +1,4 @@
-let socket = io("http://localhost:3000");
+let socket = io(CONFIG.questionServerURL);
 
 socket.on("connection", () => {
     console.log("Connected to socket");
