@@ -9,7 +9,7 @@ The following command will run the client locally, and the client will find the 
 npm run local
 ```
 
-On the other hand, the following command will run the client locally, and the client will find the question server running at `http://localhost:3000`, but this address will be changed once the question server is hosted on the SRCF.
+On the other hand, the following command will run the client locally, and the client will find the question server running at `https://groupcharlie.soc.srcf.net/`.
 ```bash
 npm start
 ```
