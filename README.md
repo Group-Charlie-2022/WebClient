@@ -9,7 +9,7 @@ The following command will run the client locally, and the client will find the 
 npm run local
 ```
 
-On the other hand, the following command will run the client locally, and the client will find the question server running at `https://groupcharlie.soc.srcf.net/`.
+On the other hand, the following command will run the client locally, and the client will find the question server running at `http://groupcharlie.soc.srcf.net:3000/`.
 ```bash
 npm start
 ```
